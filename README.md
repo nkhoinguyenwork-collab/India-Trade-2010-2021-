@@ -5,9 +5,10 @@ This project delivers a macroeconomic and structural assessment of India's merch
 
 ---
 
-## Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 - **Data Transformation & Querying:** SQL (Data cleaning, aggregation, HS-code mapping, and trade balance formatting)
 - **Data Modeling & Visualization:** Microsoft Power BI (`India Trade.pbix`)
+- **Raw Dataset (2010–2021):** [Download Full Raw Data from Google Drive](https://drive.google.com/drive/folders/150qTXoeKV9__D085T9pIEaBOIvfOOKMT?usp=sharing)
 - **Metrics & DAX:** Measures for Trade Deficit (-36%), YoY Growth, and Market Share Decomposition
 - **Analytical Competencies:** Value-chain trade analysis, supply chain decoupling, macro trade profiling
 
